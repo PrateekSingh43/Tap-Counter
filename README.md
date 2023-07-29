@@ -12,7 +12,7 @@ A simple tap counter web application built with HTML, CSS, and JavaScript. Users
 
 ## How to Use
 
-1. Clone the repository: `git clone https://github.com/your-username/tap-counter.git`
+1. Clone the repository: `git clone https://github.com/PrateekSingh43/tap-counter.git`
 2. Open `index.html` in your web browser.
 3. Start tapping to increase the count!
 4. Use the "Go To Previous" button to go back to previous counts.
